@@ -15,7 +15,6 @@ A modern, responsive landing page designed for a tech product.
 - JavaScript
 
 ## Live Demo
-(Add GitHub Pages link here)
-
+(https://nainakashyap1318-tech.github.io/Tech-Product-Landing-Page/)
 ## Author
 Naina
